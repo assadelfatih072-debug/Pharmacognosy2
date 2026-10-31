@@ -1,0 +1,6 @@
+{
+  "name": "Pharmacognosy II - Master MCQ Bank & Study Suite",
+  "description": "Comprehensive interactive review bank for Pharmacognosy II Lectures 1–10 with exam simulation, flashcards, high-yield matrices, and spaced review.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
